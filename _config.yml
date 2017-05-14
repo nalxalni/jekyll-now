@@ -9,7 +9,7 @@ name: la joges.
 description: 测试描述机器
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/nalxalni/nalxalni.github.io/blob/master/images/nalxalnilogo.png
+avatar: https://github.com/nalxalni/nalxalni.github.io/blob/master/images/xal-logo.jpg
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: github.com/nalxalni
   instagram:
   linkedin:
   pinterest:
