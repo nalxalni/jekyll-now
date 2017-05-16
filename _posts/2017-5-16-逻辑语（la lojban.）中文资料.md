@@ -1,61 +1,61 @@
-# Âß¼­ÓïÊÇÊ²Ã´£¿
+# é€»è¾‘è¯­æ˜¯ä»€ä¹ˆï¼Ÿ
 
-**Âß¼­Óï£¨la lojban.£©**ÊÇ×¨Îª´ó·ùÏû³ıÈËÀà¹µÍ¨ÆçÒå¶øÉè¼ÆµÄÒ»ÃÅÈËÔìÓïÑÔ¡£Âß¼­ÓïÒÑ¾­·¢Õ¹¿çÔ½ÎåÊ®ÄêÀú³Ì¡£
+**é€»è¾‘è¯­ï¼ˆla lojban.ï¼‰** æ˜¯ä¸“ä¸ºå¤§å¹…æ¶ˆé™¤äººç±»æ²Ÿé€šæ­§ä¹‰è€Œè®¾è®¡çš„ä¸€é—¨äººé€ è¯­è¨€ã€‚é€»è¾‘è¯­å·²ç»å‘å±•è·¨è¶Šäº”åå¹´å†ç¨‹ã€‚
 
-Âß¼­ÓïµÄÌØµã£º
+é€»è¾‘è¯­çš„ç‰¹ç‚¹ï¼š
 
-- ×¨Îª**ÈË¼Ê½»Á÷**¶øÉè¼Æ£¬½«À´Ò²¿ÉÄÜÓÃÓÚÈË»ú½»Á÷£»
-- ÒÔ**ÎÄ»¯ÖĞÁ¢**Îª×¼ÔòÉè¼Æ£¨ÓĞĞí¶àµ¥´ÊÀ´×ÔººÓïÆÕÍ¨»°£©£»
-- ½÷×ñÂß¼­×¼Ôò£¬**Óï·¨ÎŞÆçÒå**£»
-- ÑÔÎÄÒ»Ò»¶ÔÓ¦£¬**Ğ´·¨´¿Æ´Òô**£»
-- ±ÈÆğ×ÔÈ»ÓïÑÔ£¬**¼òµ¥Ò×Ñ§**£»
-- Æ¾**1300¸ö¡°¸ù´Ê¡±**ÇáËÉºÏ³É**ÒÚÍò´ÊÓï**£¨¾ÍÏñÖĞÎÄµÄºº×ÖÒ»Ñù£©£»
-- ÍêÈ«¹æÔò£¬**ºÁÎŞÀıÍâ**£»
-- Á¦Í¼Îª´´ĞÂË¼Î¬ºÍÇåÎú¹µÍ¨**½â³ıÊø¸¿**£»
-- ´Ó´´Òâµ½¿ÆÑ§£¬´ÓÀíÂÛµ½Êµ¼Ê£¬**ÓÃÍ¾¹ã·º**¡£
+- ä¸“ä¸º**äººé™…äº¤æµ**è€Œè®¾è®¡ï¼Œå°†æ¥ä¹Ÿå¯èƒ½ç”¨äºäººæœºäº¤æµï¼›
+- ä»¥**æ–‡åŒ–ä¸­ç«‹**ä¸ºå‡†åˆ™è®¾è®¡ï¼ˆæœ‰è®¸å¤šå•è¯æ¥è‡ªæ±‰è¯­æ™®é€šè¯ï¼‰ï¼›
+- è°¨éµé€»è¾‘å‡†åˆ™ï¼Œ**è¯­æ³•æ— æ­§ä¹‰**ï¼›
+- è¨€æ–‡ä¸€ä¸€å¯¹åº”ï¼Œ**å†™æ³•çº¯æ‹¼éŸ³**ï¼›
+- æ¯”èµ·è‡ªç„¶è¯­è¨€ï¼Œ**ç®€å•æ˜“å­¦**ï¼›
+- å‡­**1300ä¸ªâ€œæ ¹è¯â€**è½»æ¾åˆæˆ**äº¿ä¸‡è¯è¯­**ï¼ˆå°±åƒä¸­æ–‡çš„æ±‰å­—ä¸€æ ·ï¼‰ï¼›
+- å®Œå…¨è§„åˆ™ï¼Œ**æ¯«æ— ä¾‹å¤–**ï¼›
+- åŠ›å›¾ä¸ºåˆ›æ–°æ€ç»´å’Œæ¸…æ™°æ²Ÿé€š**è§£é™¤æŸç¼š**ï¼›
+- ä»åˆ›æ„åˆ°ç§‘å­¦ï¼Œä»ç†è®ºåˆ°å®é™…ï¼Œ**ç”¨é€”å¹¿æ³›**ã€‚
 
-# ½éÉÜ¡¢ĞÂÎÅºÍ²©¿Í
+# ä»‹ç»ã€æ–°é—»å’Œåšå®¢
 
-1. [lojban.orgÖĞÎÄÒ³Ãæ](https://mw.lojban.org/index.php?title=Lojban&setlang=zh)
-2. [Î¬»ù°Ù¿Æ¡¤Âß¼­Óï](https://zh.wikipedia.org/wiki/%E9%80%BB%E8%BE%91%E8%AF%AD)
-3. [°Ù¶È°Ù¿Æ¡¤Âß¼­Óï](http://baike.baidu.com/item/%E9%80%BB%E8%BE%91%E8%AF%AD)
-4. ³ÌÊ½ÈËéºÎŒWß‰İ‹ÕZ£¿[YouTube ÊÓÆµ](https://www.youtube.com/watch?v=uy-A5AcryaA)¡¢[»ÃµÆÆ¬](https://www.slideshare.net/ccckmit/lojban) À´×Ô êæRÕ\£¬‡øÁ¢½ğéT´óŒWÖúÀí½ÌÊÚ
-5. [³æ×ÓÓÎ¸êµÄĞÂÀË²©¿Í](http://blog.sina.com.cn/s/articlelist_1753210991_7_1.html)
-6. [la joges. µÄ²©¿Í](https://lajoges.blogspot.com)
-7. [ÀÏ±ı¸ÉµÄÎÑ](http://www.nanba.biz/tag/%E9%80%BB%E8%BE%91%E8%AF%AD/)
+1. [lojban.orgä¸­æ–‡é¡µé¢](https://mw.lojban.org/index.php?title=Lojban&setlang=zh)
+2. [ç»´åŸºç™¾ç§‘Â·é€»è¾‘è¯­](https://zh.wikipedia.org/wiki/%E9%80%BB%E8%BE%91%E8%AF%AD)
+3. [ç™¾åº¦ç™¾ç§‘Â·é€»è¾‘è¯­](http://baike.baidu.com/item/%E9%80%BB%E8%BE%91%E8%AF%AD)
+4. ç¨‹å¼äººç‚ºä½•å­¸é‚è¼¯èªï¼Ÿ[YouTube è§†é¢‘](https://www.youtube.com/watch?v=uy-A5AcryaA)ã€[å¹»ç¯ç‰‡](https://www.slideshare.net/ccckmit/lojban) æ¥è‡ª é™³é¾èª ï¼Œåœ‹ç«‹é‡‘é–€å¤§å­¸åŠ©ç†æ•™æˆ
+5. [è™«å­æ¸¸æˆˆçš„æ–°æµªåšå®¢](http://blog.sina.com.cn/s/articlelist_1753210991_7_1.html)
+6. [la joges. çš„åšå®¢](https://lajoges.blogspot.com)
+7. [è€é¥¼å¹²çš„çª](http://www.nanba.biz/tag/%E9%80%BB%E8%BE%91%E8%AF%AD/)
 
-# ½Ì²Ä
+# æ•™æ
 
-1. [Âß¼­Óï³õÑ§Õß½Ì³Ì£¨la .laubingam. ·­Òë£©](http://pan.baidu.com/s/1dDzSWmd)
-2. [³æ×ÓÓÎ¸êµÄĞÂÀË²©¿Í](http://blog.sina.com.cn/s/articlelist_1753210991_7_1.html)
-3. [½oĞÂÊÖµÄß‰İ‹ÕZÊÖƒÔ ¡ª velcli befi la lojban. bei loi co'a cilre](http://dejavu.blogdns.org/sites/default/files/article/lojban_for_beginners/) ÖĞÎÄ·­×g£º°¬‚b
+1. [é€»è¾‘è¯­åˆå­¦è€…æ•™ç¨‹ï¼ˆla .laubingam. ç¿»è¯‘ï¼‰](http://pan.baidu.com/s/1dDzSWmd)
+2. [è™«å­æ¸¸æˆˆçš„æ–°æµªåšå®¢](http://blog.sina.com.cn/s/articlelist_1753210991_7_1.html)
+3. [çµ¦æ–°æ‰‹çš„é‚è¼¯èªæ‰‹å†Š â€” velcli befi la lojban. bei loi co'a cilre](http://dejavu.blogdns.org/sites/default/files/article/lojban_for_beginners/) ä¸­æ–‡ç¿»è­¯ï¼šè‰¾ä¿ 
 
-# ´Êµä
+# è¯å…¸
 
-1. [ÖĞÎÄ¸ù´Ê£¨gismu£©ÁĞ±í£¨la .joges. ·­Òë£©](http://pan.baidu.com/s/1gd3iWt9)
-2. ÔÚÏß´Êµäµ¼³öµÄ[gismu/cmavoÁĞ±í](http://guskant.github.io/lojbo/gismu-cmavo.html)£¬tsv/html¸ñÊ½
-3. [ÖĞÎÄ´Ê¸ùÁĞ±í](https://mw.lojban.org/papri/File:796.sip "File:796.sip")£¬Õâ¸ö°æ±¾µÄ´ÊÒåÏê½âÃ»ÓĞÖĞÎÄ£¬µ«ÊÇ¸ø³öÃ¿¸ö¸ù´Ê¶ÔÓ¦µÄÖĞÎÄ×Ö
-4. ÔÚÏß´Êµäµ¼³öµÄ[ĞÇ¼ÊÒëÍõ¸ñÊ½µÄ¶àÓïÑÔ´Êµä](http://guskant.github.io/lojbo/stardict.html)£¬Ò²ÓĞÖĞÎÄ°æ±¾. ¿ÉÒÔÓÃ [GoldenDict](http://goldendict.org/)¡¢[Dictionary Universal](https://itunes.apple.com/us/app/dictionary-universal/id312088272?mt=8) µÈÊ¹ÓÃ
-5. ÔÚÏß´Êµäµ¼³öµÄÖĞÎÄ´Êµä£¨²»È«£¬PDF£©£¨[ÏÂÔØ](http://mw.lojban.org/extensions/ilmentufa/ircbot/dumps/lojban-zh.pdf)£©
-6. Memerise [Âß¼­ÓïgismuÑ§Ï°](https://www.memrise.com/course/947408/)
-7. Âß¼­ÓïÒ»ÈÕÒ»×Ö£¬[Lojban and Chinese, A Word A Day](http://wordyenglish.com/lojban/valsi_dikni/valsi_dikni.html)
+1. [ä¸­æ–‡æ ¹è¯ï¼ˆgismuï¼‰åˆ—è¡¨ï¼ˆla .joges. ç¿»è¯‘ï¼‰](http://pan.baidu.com/s/1gd3iWt9)
+2. åœ¨çº¿è¯å…¸å¯¼å‡ºçš„[gismu/cmavoåˆ—è¡¨](http://guskant.github.io/lojbo/gismu-cmavo.html)ï¼Œtsv/htmlæ ¼å¼
+3. [ä¸­æ–‡è¯æ ¹åˆ—è¡¨](https://mw.lojban.org/papri/File:796.sip "File:796.sip")ï¼Œè¿™ä¸ªç‰ˆæœ¬çš„è¯ä¹‰è¯¦è§£æ²¡æœ‰ä¸­æ–‡ï¼Œä½†æ˜¯ç»™å‡ºæ¯ä¸ªæ ¹è¯å¯¹åº”çš„ä¸­æ–‡å­—
+4. åœ¨çº¿è¯å…¸å¯¼å‡ºçš„[æ˜Ÿé™…è¯‘ç‹æ ¼å¼çš„å¤šè¯­è¨€è¯å…¸](http://guskant.github.io/lojbo/stardict.html)ï¼Œä¹Ÿæœ‰ä¸­æ–‡ç‰ˆæœ¬. å¯ä»¥ç”¨ [GoldenDict](http://goldendict.org/)ã€[Dictionary Universal](https://itunes.apple.com/us/app/dictionary-universal/id312088272?mt=8) ç­‰ä½¿ç”¨
+5. åœ¨çº¿è¯å…¸å¯¼å‡ºçš„ä¸­æ–‡è¯å…¸ï¼ˆä¸å…¨ï¼ŒPDFï¼‰ï¼ˆ[ä¸‹è½½](http://mw.lojban.org/extensions/ilmentufa/ircbot/dumps/lojban-zh.pdf)ï¼‰
+6. Memerise [é€»è¾‘è¯­gismuå­¦ä¹ ](https://www.memrise.com/course/947408/)
+7. é€»è¾‘è¯­ä¸€æ—¥ä¸€å­—ï¼Œ[Lojban and Chinese, A Word A Day](http://wordyenglish.com/lojban/valsi_dikni/valsi_dikni.html)
 
-# ÂÛÌ³
+# è®ºå›
 
-1. QQ Èº£º263402187
-2. [¶¹°êĞ¡×é¡¤lojban Âß¼­Óï ß‰İ‹ÕZ ](https://www.douban.com/group/405702/)
-3. [¶¹°êĞ¡×é¡¤Âß¼­Óï£¨Lojban£©](https://www.douban.com/group/lojban/)
-4. [°Ù¶ÈÌù°É¡¤Âß¼­Óï°É](http://tieba.baidu.com/f?kw=%C2%DF%BC%AD%D3%EF)
-5. [êæRÕ\µÄß‰İ‹ÕZŒWÁ•ÉçˆF (Ì¨³)](https://www.facebook.com/groups/lojban.tw/)
-6. [Wei Tang µÄ Hong Kong Lojbanist Group](https://www.facebook.com/groups/lojbanhk/)
+1. QQ ç¾¤ï¼š263402187
+2. [è±†ç“£å°ç»„Â·lojban é€»è¾‘è¯­ é‚è¼¯èª ](https://www.douban.com/group/405702/)
+3. [è±†ç“£å°ç»„Â·é€»è¾‘è¯­ï¼ˆLojbanï¼‰](https://www.douban.com/group/lojban/)
+4. [ç™¾åº¦è´´å§Â·é€»è¾‘è¯­å§](http://tieba.baidu.com/f?kw=%C2%DF%BC%AD%D3%EF)
+5. [é™³é¾èª çš„é‚è¼¯èªå­¸ç¿’ç¤¾åœ˜ (å°ç£)](https://www.facebook.com/groups/lojban.tw/)
+6. [Wei Tang çš„ Hong Kong Lojbanist Group](https://www.facebook.com/groups/lojbanhk/)
 
-# ¿ªÔ´ÏîÄ¿
+# å¼€æºé¡¹ç›®
 
-1. Lowan -- ß‰İ‹Èf‡øÕZ [GitHub](https://github.com/ccckmit/lowan)
-2. µçÓ°£º¶À²ÃÕß lo vliraitru£»[VimeoÊÓÆµ](https://vimeo.com/190637628)¡¢[GitHub×ÖÄ»](https://github.com/guskant/vliraitru)
+1. Lowan -- é‚è¼¯è¬åœ‹èª [GitHub](https://github.com/ccckmit/lowan)
+2. ç”µå½±ï¼šç‹¬è£è€… lo vliraitruï¼›[Vimeoè§†é¢‘](https://vimeo.com/190637628)ã€[GitHubå­—å¹•](https://github.com/guskant/vliraitru)
 
-# ÆäËü
+# å…¶å®ƒ
 
-1. ÖªºõÎÊÌâ£º[Âß¼­ÓïµÄÂß¼­ĞÔÌåÏÖÔÚÄÄÀï£¿](https://www.zhihu.com/question/28121469)
-2. ÖªºõÎÊÌâ£º[ÔÚ¹ú¼ÊÉÏÂß¼­Óï(lojban)Ä¿Ç°´¦ÓÚÊ²Ã´ÑùµÄµØÎ»£¿](https://www.zhihu.com/question/26602825)
-3. [´úÂëÉó²éÖĞµÄ±©Á¦³åÍ»](http://blog.jobbole.com/19709/)£¬Ó¢ÎÄÔ­ÎÄ£º[CODE REVIEW GONE BAD](http://tatiyants.com/code-review-gone-bad/)
+1. çŸ¥ä¹é—®é¢˜ï¼š[é€»è¾‘è¯­çš„é€»è¾‘æ€§ä½“ç°åœ¨å“ªé‡Œï¼Ÿ](https://www.zhihu.com/question/28121469)
+2. çŸ¥ä¹é—®é¢˜ï¼š[åœ¨å›½é™…ä¸Šé€»è¾‘è¯­(lojban)ç›®å‰å¤„äºä»€ä¹ˆæ ·çš„åœ°ä½ï¼Ÿ](https://www.zhihu.com/question/26602825)
+3. [ä»£ç å®¡æŸ¥ä¸­çš„æš´åŠ›å†²çª](http://blog.jobbole.com/19709/)ï¼Œè‹±æ–‡åŸæ–‡ï¼š[CODE REVIEW GONE BAD](http://tatiyants.com/code-review-gone-bad/)
